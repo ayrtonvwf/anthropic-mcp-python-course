@@ -1,5 +1,9 @@
 # MCP Chat
 
+> This is a project produced while learning about MCP Server and Client in [Anthropic Academy](https://anthropic.skilljar.com).
+>
+> This is NOT production, it's only meant for learning purposes.
+
 MCP Chat is a command-line interface application that enables interactive chat capabilities with AI models through the Anthropic API. The application supports document retrieval, command-based prompts, and extensible tool integrations via the MCP (Model Control Protocol) architecture.
 
 ## Prerequisites
